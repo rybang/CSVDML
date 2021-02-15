@@ -1,5 +1,5 @@
 % ========================================================================
-%CSV-DML, Version 1.0
+% CSV-DML, Version 1.0
 % Copyright(c) 2019 Yibang Ruan
 % All Rights Reserved.
 %
@@ -19,6 +19,10 @@
 1. The codes take the "breast" as an example. 
 2. Download the Libsvm Toolbox, complie it and addpath to the matlab workspace
 3. To test the CSV-DML classifier, run demo.m
+
+Please acknowledge the use of our code with a citation:
+
+Yibang Ruan, Yanshan Xiao, Zhifeng Hao and Bo Liu, "A Convex Model for Support Vector Distance Metric Learning", IEEE Trans. on Neural Networks and Learning Systems, 2021.
 
 Contact: ruanyibang@gmail.com
 
